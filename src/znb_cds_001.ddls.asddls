@@ -21,5 +21,4 @@ define view znb_cds_001
   lfa1.lifnr,
   lfa1.adrnr,
   concat_with_space(lfa1.stras, lfa1.mcod3, 1) as satici_adresi
-
 }
